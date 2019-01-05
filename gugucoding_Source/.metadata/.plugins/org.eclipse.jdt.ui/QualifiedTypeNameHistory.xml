@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.springframework.test.context.junit4.SpringJUnit4ClassRunner"/>
-<fullyQualifiedTypeName name="org.junit.Assert"/>
-<fullyQualifiedTypeName name="lombok.Setter"/>
-<fullyQualifiedTypeName name="lombok.ToString"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.security.Provider.Service"/>
-</qualifiedTypeNameHistroy>
